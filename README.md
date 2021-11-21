@@ -9,7 +9,7 @@ Along with the code and gradle build configuration, Spock-based unit tests are p
 ## Commands to download, build and run sw
 
 ```
-git clone https://github.com/dr-prodigy/CodingChallenge.git
+git clone https://github.com/Minal199905/CodingChallenge.git
 cd CodingChallenge
 gradlew build
 gradlew fatJar
